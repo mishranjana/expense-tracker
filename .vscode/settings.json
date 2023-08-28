@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b5d25eb6-59c3-423c-9f10-0c53b73e3955/resourceGroups/expenseTracker1_group/providers/Microsoft.Web/sites/expenseTracker1",
+    "appService.deploySubpath": "build"
+}
